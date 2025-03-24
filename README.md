@@ -1,12 +1,3 @@
-با تشکر! این نسخه قابل کپی کامل برای فایل README.md:
-
-```markdown
-# Multi-Unit Converter 🔄
-
-A Python-based command-line tool for seamless unit conversions with interactive typing effects and scientific notation support.
-
-![Demo GIF](https://via.placeholder.com/800x400.png?text=Unit+Converter+Demo)
-
 ## Features ✨
 - 🌡️ Temperature Conversion (Celsius, Fahrenheit, Kelvin)
 - 📏 Length Conversion (Meters, Kilometers, Millimeters)
