@@ -50,18 +50,3 @@ Scientific: 9.95 × 10¹
 - Python 3.8+
 - NumPy
 
-### Contribution Guidelines
-1. Fork the repository
-2. Create feature branch: `git checkout -b new-feature`
-3. Commit changes: `git commit -am 'Add awesome feature'`
-4. Push to branch: `git push origin new-feature`
-5. Submit pull request
-
-## License 📄
-MIT License - See [LICENSE](LICENSE) for details
-
-## Acknowledgments 🙏
-- Python Core Team
-- NumPy Maintainers
-- Open Source Community
-```
